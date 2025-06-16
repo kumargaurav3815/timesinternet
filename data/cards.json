@@ -11,7 +11,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card1",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "SBI SimplyCLICK",
@@ -24,7 +24,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card2",
-    "image_url": "http://localhost:8000/images/sbi.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/sbi.jpg"
   },
   {
     "name": "ICICI Amazon Pay",
@@ -37,7 +37,7 @@
       "Amazon cashback"
     ],
     "apply_link": "https://dummy-link.com/card3",
-    "image_url": "http://localhost:8000/images/icici.png"
+    "image_url": "https://timesinternet.onrender.com/images/icici.png"
 
   },
   {
@@ -51,7 +51,7 @@
       "Lounge access"
     ],
     "apply_link": "https://dummy-link.com/card4",
-    "image_url": "http://localhost:8000/images/axis.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/axis.jpg"
   },
   {
     "name": "HDFC Regalia",
@@ -65,7 +65,7 @@
       "Dining offers"
     ],
     "apply_link": "https://dummy-link.com/card5",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "SBI Card ELITE",
@@ -79,7 +79,7 @@
       "Lounge access"
     ],
     "apply_link": "https://dummy-link.com/card6",
-     "image_url": "http://localhost:8000/images/sbi.jpg"
+     "image_url": "https://timesinternet.onrender.com/images/sbi.jpg"
   },
   {
     "name": "ICICI Coral",
@@ -92,7 +92,7 @@
       "Railway lounge access"
     ],
     "apply_link": "https://dummy-link.com/card7",
-    "image_url": "http://localhost:8000/images/icici.png"
+    "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Amazon Pay ICICI",
@@ -105,7 +105,7 @@
       "Amazon cashback"
     ],
     "apply_link": "https://dummy-link.com/card8",
-    "image_url": "http://localhost:8000/images/icici.png"
+    "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Flipkart Axis Bank Card",
@@ -118,7 +118,7 @@
       "Flipkart vouchers"
     ],
     "apply_link": "https://dummy-link.com/card9",
-    "image_url": "http://localhost:8000/images/axis.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/axis.jpg"
   },
   {
     "name": "HDFC Diners Club Privilege",
@@ -132,7 +132,7 @@
       "Wellness rewards"
     ],
     "apply_link": "https://dummy-link.com/card10",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "HDFC Millennia Variant 11",
@@ -146,7 +146,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card11",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "SBI SimplyCLICK Variant 12",
@@ -159,7 +159,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card12",
-     "image_url": "http://localhost:8000/images/sbi.jpg"
+     "image_url": "https://timesinternet.onrender.com/images/sbi.jpg"
   },
   {
     "name": "ICICI Amazon Pay Variant 13",
@@ -172,7 +172,7 @@
       "Amazon cashback"
     ],
     "apply_link": "https://dummy-link.com/card13",
-        "image_url": "http://localhost:8000/images/icici.png"
+        "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Axis ACE Variant 14",
@@ -185,7 +185,7 @@
       "Lounge access"
     ],
     "apply_link": "https://dummy-link.com/card14",
-    "image_url": "http://localhost:8000/images/axis.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/axis.jpg"
   },
   {
     "name": "HDFC Regalia Variant 15",
@@ -199,7 +199,7 @@
       "Dining offers"
     ],
     "apply_link": "https://dummy-link.com/card15",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "SBI Card ELITE Variant 16",
@@ -213,7 +213,7 @@
       "Lounge access"
     ],
     "apply_link": "https://dummy-link.com/card16",
-     "image_url": "http://localhost:8000/images/sbi.jpg"
+     "image_url": "https://timesinternet.onrender.com/images/sbi.jpg"
   },
   {
     "name": "ICICI Coral Variant 17",
@@ -226,7 +226,7 @@
       "Railway lounge access"
     ],
     "apply_link": "https://dummy-link.com/card17",
-    "image_url": "http://localhost:8000/images/icici.png"
+    "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Amazon Pay ICICI Variant 18",
@@ -239,7 +239,7 @@
       "Amazon cashback"
     ],
     "apply_link": "https://dummy-link.com/card18",
-        "image_url": "http://localhost:8000/images/icici.png"
+        "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Flipkart Axis Bank Card Variant 19",
@@ -252,7 +252,7 @@
       "Flipkart vouchers"
     ],
     "apply_link": "https://dummy-link.com/card19",
-    "image_url": "http://localhost:8000/images/axis.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/axis.jpg"
   },
   {
     "name": "HDFC Diners Club Privilege Variant 20",
@@ -266,7 +266,7 @@
       "Wellness rewards"
     ],
     "apply_link": "https://dummy-link.com/card20",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "HDFC Millennia Variant 21",
@@ -280,7 +280,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card21",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   },
   {
     "name": "SBI SimplyCLICK Variant 22",
@@ -293,7 +293,7 @@
       "Amazon vouchers"
     ],
     "apply_link": "https://dummy-link.com/card22",
-     "image_url": "http://localhost:8000/images/sbi.jpg"
+     "image_url": "https://timesinternet.onrender.com/images/sbi.jpg"
   },
   {
     "name": "ICICI Amazon Pay Variant 23",
@@ -306,7 +306,7 @@
       "Amazon cashback"
     ],
     "apply_link": "https://dummy-link.com/card23",
-    "image_url": "http://localhost:8000/images/icici.png"
+    "image_url": "https://timesinternet.onrender.com/images/icici.png"
   },
   {
     "name": "Axis ACE Variant 24",
@@ -319,7 +319,7 @@
       "Lounge access"
     ],
     "apply_link": "https://dummy-link.com/card24",
-    "image_url": "http://localhost:8000/images/axis.jpg"
+    "image_url": "https://timesinternet.onrender.com/images/axis.jpg"
   },
   {
     "name": "HDFC Regalia Variant 25",
@@ -333,6 +333,6 @@
       "Dining offers"
     ],
     "apply_link": "https://dummy-link.com/card25",
-    "image_url": "http://localhost:8000/images/hdfc.png"
+    "image_url": "https://timesinternet.onrender.com/images/hdfc.png"
   }
 ]
