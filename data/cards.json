@@ -1,0 +1,338 @@
+[
+  {
+    "name": "HDFC Millennia",
+    "issuer": "HDFC",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "rewards": "5% cashback on online spends",
+    "eligibility": "Income > 4 LPA",
+    "perks": [
+      "Lounge access",
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card1",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "SBI SimplyCLICK",
+    "issuer": "SBI",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "10X rewards on online partners",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card2",
+    "image_url": "http://localhost:8000/images/sbi.jpg"
+  },
+  {
+    "name": "ICICI Amazon Pay",
+    "issuer": "ICICI",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "rewards": "5% cashback on Amazon for Prime users",
+    "eligibility": "Income > 2.5 LPA",
+    "perks": [
+      "Amazon cashback"
+    ],
+    "apply_link": "https://dummy-link.com/card3",
+    "image_url": "http://localhost:8000/images/icici.png"
+
+  },
+  {
+    "name": "Axis ACE",
+    "issuer": "Axis Bank",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "2% cashback on all spends, 5% on bill payments",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card4",
+    "image_url": "http://localhost:8000/images/axis.jpg"
+  },
+  {
+    "name": "HDFC Regalia",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "rewards": "4 reward points per \u20b9150 spent",
+    "eligibility": "Income > 10 LPA",
+    "perks": [
+      "Lounge access",
+      "Dining offers"
+    ],
+    "apply_link": "https://dummy-link.com/card5",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "SBI Card ELITE",
+    "issuer": "SBI",
+    "joining_fee": 4999,
+    "annual_fee": 4999,
+    "rewards": "5X on dining, groceries, department stores",
+    "eligibility": "Income > 12 LPA",
+    "perks": [
+      "Free movie tickets",
+      "Lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card6",
+     "image_url": "http://localhost:8000/images/sbi.jpg"
+  },
+  {
+    "name": "ICICI Coral",
+    "issuer": "ICICI",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "rewards": "2 reward points per \u20b9100 spent",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Railway lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card7",
+    "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Amazon Pay ICICI",
+    "issuer": "ICICI",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "rewards": "5% cashback for Prime users, 3% for others",
+    "eligibility": "Income > 2 LPA",
+    "perks": [
+      "Amazon cashback"
+    ],
+    "apply_link": "https://dummy-link.com/card8",
+    "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Flipkart Axis Bank Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "rewards": "5% cashback on Flipkart, 1.5% elsewhere",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Flipkart vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card9",
+    "image_url": "http://localhost:8000/images/axis.jpg"
+  },
+  {
+    "name": "HDFC Diners Club Privilege",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "rewards": "4 reward points per \u20b9150 spent",
+    "eligibility": "Income > 7.5 LPA",
+    "perks": [
+      "Lounge access",
+      "Wellness rewards"
+    ],
+    "apply_link": "https://dummy-link.com/card10",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "HDFC Millennia Variant 11",
+    "issuer": "HDFC",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "rewards": "5% cashback on online spends",
+    "eligibility": "Income > 4 LPA",
+    "perks": [
+      "Lounge access",
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card11",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "SBI SimplyCLICK Variant 12",
+    "issuer": "SBI",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "10X rewards on online partners",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card12",
+     "image_url": "http://localhost:8000/images/sbi.jpg"
+  },
+  {
+    "name": "ICICI Amazon Pay Variant 13",
+    "issuer": "ICICI",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "rewards": "5% cashback on Amazon for Prime users",
+    "eligibility": "Income > 2.5 LPA",
+    "perks": [
+      "Amazon cashback"
+    ],
+    "apply_link": "https://dummy-link.com/card13",
+        "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Axis ACE Variant 14",
+    "issuer": "Axis Bank",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "2% cashback on all spends, 5% on bill payments",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card14",
+    "image_url": "http://localhost:8000/images/axis.jpg"
+  },
+  {
+    "name": "HDFC Regalia Variant 15",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "rewards": "4 reward points per \u20b9150 spent",
+    "eligibility": "Income > 10 LPA",
+    "perks": [
+      "Lounge access",
+      "Dining offers"
+    ],
+    "apply_link": "https://dummy-link.com/card15",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "SBI Card ELITE Variant 16",
+    "issuer": "SBI",
+    "joining_fee": 4999,
+    "annual_fee": 4999,
+    "rewards": "5X on dining, groceries, department stores",
+    "eligibility": "Income > 12 LPA",
+    "perks": [
+      "Free movie tickets",
+      "Lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card16",
+     "image_url": "http://localhost:8000/images/sbi.jpg"
+  },
+  {
+    "name": "ICICI Coral Variant 17",
+    "issuer": "ICICI",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "rewards": "2 reward points per \u20b9100 spent",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Railway lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card17",
+    "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Amazon Pay ICICI Variant 18",
+    "issuer": "ICICI",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "rewards": "5% cashback for Prime users, 3% for others",
+    "eligibility": "Income > 2 LPA",
+    "perks": [
+      "Amazon cashback"
+    ],
+    "apply_link": "https://dummy-link.com/card18",
+        "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Flipkart Axis Bank Card Variant 19",
+    "issuer": "Axis Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "rewards": "5% cashback on Flipkart, 1.5% elsewhere",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Flipkart vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card19",
+    "image_url": "http://localhost:8000/images/axis.jpg"
+  },
+  {
+    "name": "HDFC Diners Club Privilege Variant 20",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "rewards": "4 reward points per \u20b9150 spent",
+    "eligibility": "Income > 7.5 LPA",
+    "perks": [
+      "Lounge access",
+      "Wellness rewards"
+    ],
+    "apply_link": "https://dummy-link.com/card20",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "HDFC Millennia Variant 21",
+    "issuer": "HDFC",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "rewards": "5% cashback on online spends",
+    "eligibility": "Income > 4 LPA",
+    "perks": [
+      "Lounge access",
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card21",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  },
+  {
+    "name": "SBI SimplyCLICK Variant 22",
+    "issuer": "SBI",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "10X rewards on online partners",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Amazon vouchers"
+    ],
+    "apply_link": "https://dummy-link.com/card22",
+     "image_url": "http://localhost:8000/images/sbi.jpg"
+  },
+  {
+    "name": "ICICI Amazon Pay Variant 23",
+    "issuer": "ICICI",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "rewards": "5% cashback on Amazon for Prime users",
+    "eligibility": "Income > 2.5 LPA",
+    "perks": [
+      "Amazon cashback"
+    ],
+    "apply_link": "https://dummy-link.com/card23",
+    "image_url": "http://localhost:8000/images/icici.png"
+  },
+  {
+    "name": "Axis ACE Variant 24",
+    "issuer": "Axis Bank",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "rewards": "2% cashback on all spends, 5% on bill payments",
+    "eligibility": "Income > 3 LPA",
+    "perks": [
+      "Lounge access"
+    ],
+    "apply_link": "https://dummy-link.com/card24",
+    "image_url": "http://localhost:8000/images/axis.jpg"
+  },
+  {
+    "name": "HDFC Regalia Variant 25",
+    "issuer": "HDFC",
+    "joining_fee": 2500,
+    "annual_fee": 2500,
+    "rewards": "4 reward points per \u20b9150 spent",
+    "eligibility": "Income > 10 LPA",
+    "perks": [
+      "Lounge access",
+      "Dining offers"
+    ],
+    "apply_link": "https://dummy-link.com/card25",
+    "image_url": "http://localhost:8000/images/hdfc.png"
+  }
+]
