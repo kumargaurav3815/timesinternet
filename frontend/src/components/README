@@ -1,0 +1,13 @@
+Credit Card Recommendation Chatbot
+
+A smart, conversational credit card advisor built with recommendation engine. Users can chat with the assistant to get personalized credit card suggestions based on income, spending, perks, and credit score.
+
+Features
+
+- Chat-based UI with step-by-step input collection
+- AI-driven assistant powered by LangChain (LLM or mock fallback)
+- Real-time credit card recommendation using a static card dataset
+- Reward simulation and benefit estimation
+- Post-chat summary and comparison view
+- Fully responsive design using Tailwind CSS
+- Backend API via FastAPI
