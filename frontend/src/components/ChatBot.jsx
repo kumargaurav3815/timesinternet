@@ -68,7 +68,7 @@ const ChatBot = () => {
     setInput("");
 
     try {
-      const res = await axios.post("http://localhost:8000/ask", {
+      const res = await axios.post("https://timesinternet.onrender.com/ask", {
         message: input,
         session_id: sessionId,
       });
@@ -79,7 +79,7 @@ const ChatBot = () => {
 
       if (nextStep === 4) {
         const recRes = await axios.post(
-          "http://localhost:8000/recommend",
+          "https://timesinternet.onrender.com/recommend",
           newUserData
         );
         setRecommendations(recRes.data.recommendations || []);
